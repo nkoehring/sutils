@@ -12,7 +12,7 @@
 #include <linux/wireless.h>
 
 #define INTERVAL   5
-#define INTERFACE  "wlan0"
+#define INTERFACE  "wlp1s0"
 #define FORMAT     "%s"
 
 char *format = FORMAT;

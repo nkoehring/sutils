@@ -8,7 +8,7 @@
 #include "common.h"
 
 #define INTERVAL      3
-#define FORMAT        "%a %H:%M"
+#define FORMAT        "%a, %Y-%m-%d %H:%M"
 
 int put_infos(char *format)
 {
